@@ -1,0 +1,10 @@
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\TheQuestLab\TheQuest\TheQuest\bin\Debug\TheQuest.exe.config
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\TheQuestLab\TheQuest\TheQuest\bin\Debug\TheQuest.exe
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\TheQuestLab\TheQuest\TheQuest\bin\Debug\TheQuest.pdb
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\TheQuestLab\TheQuest\TheQuest\obj\Debug\TheQuest.csprojAssemblyReference.cache
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\TheQuestLab\TheQuest\TheQuest\obj\Debug\TheQuest.Form1.resources
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\TheQuestLab\TheQuest\TheQuest\obj\Debug\TheQuest.Properties.Resources.resources
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\TheQuestLab\TheQuest\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.cache
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\TheQuestLab\TheQuest\TheQuest\obj\Debug\TheQuest.csproj.CoreCompileInputs.cache
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\TheQuestLab\TheQuest\TheQuest\obj\Debug\TheQuest.exe
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\TheQuestLab\TheQuest\TheQuest\obj\Debug\TheQuest.pdb
